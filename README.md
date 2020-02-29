@@ -8,4 +8,4 @@ The AI will detect all faces in the scene and create bounding boxes around them,
 Todo:
 - Improve performance / Framerate
 - Create interface for creating dataset
-- Potentially allow user to tag names to "unknown" users
+- Potentially allow user to tag names to unidentified people
