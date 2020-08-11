@@ -9,4 +9,4 @@ Example.
 Todo:
 - Improve performance / Framerate
 - Create interface for creating dataset
-- Potentially allow user to tag names to unidentified people
+- Potentially allow user to tag names to unidentified faces
